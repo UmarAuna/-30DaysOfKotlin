@@ -32,7 +32,6 @@ This article should talk about their:
 * A chance to learn the kotlin programming language and use it in real life projects.
 * Access to a group of talented people who are always ready to support you until Day 30.
 * An opportunity to get better at a skill you’ve been learning. 
-* 1k worth of data to the top 3 active people every 10 days.
 * Winner gets one year free license key for any JetBrains IDE.
 
 ## Criteria for winning the weekly Data
@@ -42,8 +41,6 @@ This article should talk about their:
 
 ## Links to get started
 [Android Basics in Kotlin With Badges](https://developer.android.com/courses/android-basics-kotlin/course)
-
-
 
 [Learn the Kotlin programming language](https://developer.android.com/kotlin/learn)
 
