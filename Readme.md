@@ -34,11 +34,6 @@ This article should talk about their:
 * An opportunity to get better at a skill you’ve been learning. 
 * Winner gets one year free license key for any JetBrains IDE.
 
-## Criteria for winning the weekly Data
-1. You must tweet what you’ve learned for the day on the using the hashtag **#30DaysOfKotlin** **@KanoKotlin** **#KotlinKano**.
-2. Your post must contain proof that you actually learned what you posted. This proof must be a Github repository to the code you’ve pushed or a screenshot of what you are working on or learning. 
-3. You must follow the rules of the challenge as specified by the Lead Saadat Aliyu.
-
 ## Links to get started
 [Android Basics in Kotlin With Badges](https://developer.android.com/courses/android-basics-kotlin/course)
 
